@@ -1,4 +1,4 @@
-# ✨ *Para Bank* ==> *GUI* *Test Automation* ✨
+# *Para Bank* ==> *GUI* *Test Automation* 
 
 
 ### 🌐 Website URL: https://parabank.parasoft.com/parabank/index.htm
