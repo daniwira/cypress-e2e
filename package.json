@@ -13,5 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^11.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniwira/cypress-e2e.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daniwira/cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/daniwira/cypress-e2e#readme"
 }
