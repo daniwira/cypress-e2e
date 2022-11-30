@@ -86,7 +86,7 @@ describe('My First Test', () => {
         cy.get(':nth-child(4) > .input').type('juh87agi')
         cy.get(':nth-child(5) > .button').click()
 
-        cy.contains("The username and password could not be verified.");
+        cy.contains("An internal error has occurred and has been logged.");
     })
 
     it('Do Login with Correct value', () =>{
