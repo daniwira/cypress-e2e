@@ -1,0 +1,17 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "dani",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
+}
